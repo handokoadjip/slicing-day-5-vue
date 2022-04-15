@@ -1,4 +1,4 @@
-# day-1-vue
+# Station Seven | COASTAL & CO
 
 ## Project setup
 ```
